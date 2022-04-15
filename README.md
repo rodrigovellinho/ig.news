@@ -1,5 +1,5 @@
 <h3 align="center">
-  Bootcamp Ignite Rocketseat - Projeto dese
+  Bootcamp Ignite Rocketseat - Blog onde os usuários podem ter acesso ao conteúdo de cada postagem de acordo com o status de sua assinatura
 </h3>
 
 ## :rocket: Sobre o desafio
