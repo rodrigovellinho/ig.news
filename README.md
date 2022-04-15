@@ -1,11 +1,11 @@
 <h3 align="center">
-  Bootcamp Ignite Rocketseat - Desafio 07 - Interface com Chakra UI
+  Bootcamp Ignite Rocketseat - Blog onde os usuários podem ter acesso ao conteúdo de cada postagem de acordo com o status de sua assinatura
 </h3>
 
 ## :rocket: Sobre o desafio
 
 <p align="center">
-  <img src="https://github.com/rodrigovellinho/WorldTripAdvisor/blob/main/assets/capa.svg" alt="WorldTripAdvisor">
+  <img src="https://github.com/rodrigovellinho/ig.news/blob/main/public/images/Capa.jpg" alt="Ig.News">
 </p>
 
 O projeto ig.news é um blog onde os usuários podem ter acesso ao conteúdo de cada postagem de acordo com o status de sua assinatura.
